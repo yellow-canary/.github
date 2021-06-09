@@ -1,0 +1,13 @@
+{
+    "name": "Yellow Canary Org Workflow",
+    "description": "Yellow Canary Org CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
