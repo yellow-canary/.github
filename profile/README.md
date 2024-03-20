@@ -13,7 +13,7 @@ Here are some of the projects developed and maintained by Yellow Canary:
 ### FourKeys
 
 - **Description**: FourKeys is a command-line interface (CLI) application written in Go that calculates a snapshot of the DORA four keys metrics of a GitHub repository.
-- **GitHub Repository**: https://github.com/yellow-canary/fourkeys
+- **GitHub Repository**: https://github.com/yellow-canary/fourkeys-cli
 
 ### Yellow Pages
 
